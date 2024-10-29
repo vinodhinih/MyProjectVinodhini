@@ -1,0 +1,14 @@
+C:\Vinodhini\Batch7Vino\bin\Debug\net8.0\Batch7Vino.exe
+C:\Vinodhini\Batch7Vino\bin\Debug\net8.0\Batch7Vino.deps.json
+C:\Vinodhini\Batch7Vino\bin\Debug\net8.0\Batch7Vino.runtimeconfig.json
+C:\Vinodhini\Batch7Vino\bin\Debug\net8.0\Batch7Vino.dll
+C:\Vinodhini\Batch7Vino\bin\Debug\net8.0\Batch7Vino.pdb
+C:\Vinodhini\Batch7Vino\obj\Debug\net8.0\Batch7Vino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vinodhini\Batch7Vino\obj\Debug\net8.0\Batch7Vino.AssemblyInfoInputs.cache
+C:\Vinodhini\Batch7Vino\obj\Debug\net8.0\Batch7Vino.AssemblyInfo.cs
+C:\Vinodhini\Batch7Vino\obj\Debug\net8.0\Batch7Vino.csproj.CoreCompileInputs.cache
+C:\Vinodhini\Batch7Vino\obj\Debug\net8.0\Batch7Vino.dll
+C:\Vinodhini\Batch7Vino\obj\Debug\net8.0\refint\Batch7Vino.dll
+C:\Vinodhini\Batch7Vino\obj\Debug\net8.0\Batch7Vino.pdb
+C:\Vinodhini\Batch7Vino\obj\Debug\net8.0\Batch7Vino.genruntimeconfig.cache
+C:\Vinodhini\Batch7Vino\obj\Debug\net8.0\ref\Batch7Vino.dll
